@@ -31,3 +31,7 @@ User enters English Language lyrics.
 -Extras Processing provided, to allow a user to show prediction based on song features
 ![Advanced-Analysis](https://github.com/abhishek96Saini/Song-Hit-Prediction/blob/master/screenshots/advanced1.png)
 
+## Contributers
+-[MokshVerma](https://github.com/MokshVerma/Hit-Predictor-5000)
+-[lakshay761](https://github.com/lakshay761/msd-analysis)
+
